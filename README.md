@@ -1,4 +1,3 @@
-# Graduate-assistant-research-
 
 Research to create techniques to achieve greater terminal wealth over a fixed time horizon for adults 60 – 70 years old
 Abstract
